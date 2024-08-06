@@ -1,7 +1,7 @@
 * body {
   padding: 0;
   box-sizing: border-box;
-background-image: url(./imagenes/FONDO.png);
+background-image: url(./imagenes/FONDO.jpg);
 background-size: 100%;
  
 }
@@ -228,7 +228,7 @@ margin-left: 29%;
   border: none;
   background-color: #070707;
   margin-left: 33%;
-  margin-top: 5%;
+  margin-top: -5%;
   font-family: 'Julius Sans One', sans-serif;
   background-image: url(./imagenes/papelitos.gif);
   background-size: 55%;
